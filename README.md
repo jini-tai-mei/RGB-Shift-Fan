@@ -7,7 +7,6 @@
 # RGB-Shift-Fan
 正叶风扇“平移”发光技术开源 | Shifting RGB to the rear frame for 100% airflow.
 
-
 > **💡 设计原则 (Core Principle)**
 > **“既然正叶风扇翻装后无法透光，那就将光源直接移至背面外框。”**
 > *(Since a standard pull-fan hides the RGB when flipped, shift the light to the rear frame.)*
